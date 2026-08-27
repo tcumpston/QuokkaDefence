@@ -37,6 +37,17 @@ opinion of it. It is not a virus report. If you would rather verify the file
 yourself, every release lists a SHA-256 checksum you can compare against
 `Get-FileHash` in PowerShell.
 
+**If Windows refuses outright, with no "Run anyway" option**, you have Smart App
+Control switched on. That is a stricter protection than SmartScreen, on by
+default on some new Windows 11 machines, and it blocks unsigned software rather
+than warning about it. There is no per-application exception — the only ways
+round it are to turn Smart App Control off in **Windows Security → App & browser
+control** (which cannot be switched back on without reinstalling Windows), or to
+use the portable zip instead, which sometimes passes where the installer does
+not.
+
+Neither is a small ask, and you are entitled to decline. Signing is on the list.
+
 ---
 
 ## Requirements
