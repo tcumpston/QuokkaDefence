@@ -7,10 +7,11 @@ will turn your own guns against you.
 Made by [Wombyland](https://www.wombyland.com/). Windows, single player or
 two-player co-op.
 
-<!-- SCREENSHOTS: replace these three lines once the images are in screenshots/ -->
-<!-- ![The pub under attack](screenshots/01-defence.png) -->
-<!-- ![Placing an emplacement](screenshots/02-building.png) -->
-<!-- ![Ground level](screenshots/03-groundlevel.png) -->
+![Quokkas dug in at ground level](screenshots/01-groundlevel.png)
+
+![The pub, and the paths that lead to it](screenshots/02-defence.png)
+
+![Main menu](screenshots/03-menu.png)
 
 ---
 
@@ -68,6 +69,15 @@ everything else.
 **Watch for the lizard.** It ignores the pub entirely. Given a clear line to one
 of your emplacements it charges at two and a half times normal speed and turns
 that gun against you for thirty seconds. It is the priority target.
+
+---
+
+## The game explains itself
+
+There is a Help screen and a Controls screen on the main menu, and both are
+available during play. Two minutes there is worth a level.
+
+![The Help screen](screenshots/04-help.png)
 
 ---
 
