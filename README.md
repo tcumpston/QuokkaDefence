@@ -71,9 +71,17 @@ A **round** is a two-minute build phase followed by the wave it pays for. Three
 rounds make a **level**, and completing a level generates a new map. The campaign
 runs to five levels.
 
-**It is meant to beat you.** The final round is tuned so that an experienced
-player fails it more often than not. Reaching the end of the campaign is a
-result, not a formality.
+**Four difficulties**, and they mean what they say:
+
+| | |
+|---|---|
+| **Picnic** | a gentle stroll — for learning the ropes |
+| **Fair Dinkum** | the intended game |
+| **Hard Yakka** | for those who have held the line before |
+| **Drop Bear** | you have been warned — unlocks when you finish a campaign |
+
+Hard Yakka is tuned so that the final round defeats an experienced player more
+often than not. Finishing on that setting is a result, not a formality.
 
 **The three guns do different jobs.** The heavy machine gun is cheap anti-swarm
 and gets overwhelmed by armour. The mortar is your area damage. Artillery does
