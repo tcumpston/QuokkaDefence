@@ -21,8 +21,8 @@ two-player co-op.
 
 | | |
 |---|---|
-| **Installer** — `QuokkaDefence-2.0-Setup.exe` | Recommended. Installs for the current user only, so it needs no administrator rights. Adds a Start menu entry and an optional desktop shortcut. |
-| **Portable zip** — `QuokkaDefence-2.0-Windows.zip` | No installation. Unzip anywhere and run `Quokka Defence.exe`. |
+| **Installer** — `QuokkaDefence-2.1-Setup.exe` | Recommended. Installs for the current user only, so it needs no administrator rights. Adds a Start menu entry and an optional desktop shortcut. |
+| **Portable zip** — `QuokkaDefence-2.1-Windows.zip` | No installation. Unzip anywhere and run `Quokka Defence.exe`. |
 
 ### Windows will warn you about this download
 
@@ -70,6 +70,10 @@ opposite edge and every path converges on the pub. Stop them before they reach i
 A **round** is a two-minute build phase followed by the wave it pays for. Three
 rounds make a **level**, and completing a level generates a new map. The campaign
 runs to five levels.
+
+**It is meant to beat you.** The final round is tuned so that an experienced
+player fails it more often than not. Reaching the end of the campaign is a
+result, not a formality.
 
 **The three guns do different jobs.** The heavy machine gun is cheap anti-swarm
 and gets overwhelmed by armour. The mortar is your area damage. Artillery does

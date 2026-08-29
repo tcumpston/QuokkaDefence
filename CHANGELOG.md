@@ -1,5 +1,20 @@
 # Changelog
 
+## 2.1 — 29 August 2026
+
+**The campaign now has an ending worth reaching.**
+
+The difficulty curve has been retuned so that **Level 5, Round 3 — the final
+round — is more likely than not to defeat an experienced player**. Previously a
+player who had learned the game could expect to finish; now finishing is a result
+rather than a formality.
+
+Nothing else about the game has changed. If you have not yet reached level 5, the
+practical difference to you is small; if you had finished the campaign, it is
+worth another run.
+
+This release also carries the game's proper icon for the first time.
+
 ## 2.0 — 27 August 2026
 
 First public release.
