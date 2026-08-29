@@ -83,6 +83,10 @@ runs to five levels.
 Hard Yakka is tuned so that the final round defeats an experienced player more
 often than not. Finishing on that setting is a result, not a formality.
 
+**Drop Bear has never been beaten**, including by the person who made it — it is
+deliberately tuned beyond her. It is meant to be possible for a player with
+better reflexes than that. Whether it actually is remains an open question.
+
 **The three guns do different jobs.** The heavy machine gun is cheap anti-swarm
 and gets overwhelmed by armour. The mortar is your area damage. Artillery does
 **no damage at all** — it shells the ground with cluster mud that halves the pace
